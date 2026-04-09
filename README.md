@@ -1,7 +1,7 @@
 ![PyPI - Version](https://img.shields.io/pypi/v/pycogat) ![Static Badge](https://img.shields.io/badge/python-3.10-blue) 
 
 # pycogat
-Python package that splits district level CogAT score reports into student level single page PDFs.
+Python package that splits district level CogAT score reports into student level files.
 
 ## Free Version vs Enterprise Version
 
