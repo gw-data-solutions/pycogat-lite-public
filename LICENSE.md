@@ -15,6 +15,6 @@ You may not:
 - Use this software in production environments without a license
 
 For commercial access, enterprise features, or licensing:
-gw.datasolutions@gmail.com
+info@gw-datasolutions.com
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
